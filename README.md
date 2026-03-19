@@ -358,12 +358,6 @@ RuntimeError: CUDA out of memory
 ```python
 self.pipeline.to(torch.device("cpu"))
 ```
-
-## 相关项目
-
-- [youtube-crawler-backend](../youtube-crawler-backend) - Go 后端服务
-- [youtube-crawler-frontend](../youtube-crawler-frontend) - 前端 React 应用
-
 ## License
 
 MIT
